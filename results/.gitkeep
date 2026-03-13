@@ -1,0 +1,8 @@
+# Results are stored here, organised by model name:
+#   results/llama3/
+#   results/llama3.1/
+#   results/deepseek-r1/
+#   results/ablation_llama3/
+#
+# This folder is intentionally excluded from git (.gitignore).
+# The .gitkeep file just preserves the directory structure.

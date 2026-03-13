@@ -1,0 +1,2 @@
+config_name,debate_rounds,num_choices,total_placements,total_instances,completion_rate_pct,total_swaps,total_power_W,total_affinity,affinity_rate_pct,llm_calls_total,llm_calls_debate,llm_tokens_total,llm_tokens_placer,llm_tokens_debate,llm_tokens_ra,llm_time_total_s,llm_time_debate_s,wall_time_s,output_dir
+debate_1r_cfull,1,0,100,100,100.00,70,1131.56,88,88.00,370,200,890555,257185,528187,105183,3449.60,2617.25,3452.00,results_ablation_claude_opus/debate_1r_cfull

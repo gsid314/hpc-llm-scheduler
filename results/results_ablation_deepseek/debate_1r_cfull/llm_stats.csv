@@ -1,0 +1,2 @@
+llm_calls_total,llm_calls_placer,llm_calls_debate,llm_calls_rearranger,llm_time_total,llm_time_placer,llm_time_debate,llm_time_rearranger,llm_tokens_total,llm_tokens_placer,llm_tokens_debate,llm_tokens_rearranger
+378,100,200,78,18484.202197790146,4776.957833766937,12038.546550512314,1668.6978135108948,3034472,959844,1774289,300339
