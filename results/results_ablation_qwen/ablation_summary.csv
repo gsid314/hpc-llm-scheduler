@@ -1,0 +1,2 @@
+config_name,model,debate_rounds,num_choices,eps_rel,eps_min,total_placements,total_instances,completion_rate_pct,total_swaps,total_power_W,total_affinity,affinity_rate_pct,llm_calls_total,llm_calls_debate,llm_tokens_total,llm_tokens_placer,llm_tokens_debate,llm_tokens_ra,llm_time_total_s,llm_time_debate_s,wall_time_s,output_dir
+debate_25r_cfull,qwen3-next:latest,25,0,0.0,0.25,1,1,100.00,0,1016.82,1,100.00,51,50,1660347,57022,1603325,0,5320.64,5246.76,5320.78,results/results_ablation_qwen/debate_25r_cfull

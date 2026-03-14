@@ -1,0 +1,3 @@
+t,agent,action,instance_id,app_id,machine_id,from_machine,to_machine,instance_id1,machine1,app_id1,instance_id2,machine2,app_id2,dp_min,epsilon,chosen_dp,chosen_affinity,delta_power_cluster,delta_affinity,rationale,llm_seconds,llm_model,llm_input_tokens,llm_output_tokens,llm_total_tokens
+0,placement_judge,Place,0,0,10,,,,,,,,,1.824721,0.25,1.824721,1,,,"Machine 10 has the smallest delta_total (1.824721) and affinity=1. DPmin + epsilon (2.074721) exceeds its delta_total, satisfying Rule T's condition for affinity=1 placement. This choice minimizes incremental power while meeting affinity requirements.",73.8731939792633,qwen3-next:latest,55928,1094,57022
+0,rearranger,NoChange,,,,,,,,,,,,,,,,,,no Pareto-improving ops in table,0,qwen3-next:latest,0,0,0

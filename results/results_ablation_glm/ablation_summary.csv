@@ -1,0 +1,2 @@
+config_name,model,debate_rounds,num_choices,eps_rel,eps_min,total_placements,total_instances,completion_rate_pct,total_swaps,total_power_W,total_affinity,affinity_rate_pct,llm_calls_total,llm_calls_debate,llm_tokens_total,llm_tokens_placer,llm_tokens_debate,llm_tokens_ra,llm_time_total_s,llm_time_debate_s,wall_time_s,output_dir
+debate_1r_cfull,gpt-oss:20b,1,0,0.0,0.25,1,1,100.00,0,31.98,0,0.00,3,2,3192,1387,1805,0,10.25,7.28,10.26,results_ablation_gpt/debate_1r_cfull
